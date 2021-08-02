@@ -10,4 +10,9 @@ class PageController extends Controller
     public function index() {
         return view('user.index');
     }
+
+    // Halaman catalog-list
+    public function cataloglist() {
+        return view('user.catalog-list');
+    }
 }

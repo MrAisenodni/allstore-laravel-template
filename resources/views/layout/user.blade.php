@@ -105,7 +105,7 @@
 
                     <li>
                         <div class="h-cart">
-                            <a href="cart.html">
+                            <a href="/cart">
                                 <i class="fa fa-shopping-cart"></i>
                                 <span class="shop-menu-ttl">Cart</span>
                                 (<b>0</b>)
@@ -126,253 +126,253 @@
 
                 <!-- Catalog menu - start -->
                 <div class="topcatalog">
-                    <a class="topcatalog-btn" href="catalog-list.html"><span>All</span> catalog</a>
+                    <a class="topcatalog-btn" href="/catalog-list"><span>All</span> catalog</a>
                     <ul class="topcatalog-list">
                         <li>
-                            <a href="catalog-list.html">
+                            <a href="/catalog-list">
                                 Women
                             </a>
                             <i class="fa fa-angle-right"></i>
                             <ul>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Knitwear
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Dresses
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Bags
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Shoulder Bags
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Falabella
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Becks
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Clutches
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Travel Bags
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Accessories
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sunglasses
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Tech Cases
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Jewelry
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Stella
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Coats & Jackets
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="catalog-list.html">
+                            <a href="/catalog-list">
                                 Men
                             </a>
                             <i class="fa fa-angle-right"></i>
                             <ul>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Jackets & Blazers
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Pants & Shorts
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Accessories
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Bags
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sunglasses
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Other Accessories
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Suiting
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Shirts
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="catalog-list.html">
+                            <a href="/catalog-list">
                                 Kids
                             </a>
                             <i class="fa fa-angle-right"></i>
                             <ul>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Girls
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Outerwear
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 T-Shirts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Blouses & Shirts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Pants & Shorts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sleepwear & Underwear
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Skirts
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Boys
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Shoes & Accessories
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Jumpers & Cardigans
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Shirts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Outerwear
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Swimwear
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Baby
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Baby Sets
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Dresses & All-In-One
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Pants & Shorts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Shoes & Accessories
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 T-shirts
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Outerwear
                                             </a>
                                         </li>
@@ -381,118 +381,118 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="catalog-list.html">
+                            <a href="/catalog-list">
                                 Shoes
                             </a>
                             <i class="fa fa-angle-right"></i>
                             <ul>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Women
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Elyse
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Odette
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Brody
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Flats
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sandals
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Men
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Casual Shoes
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sneakers
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sandals
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Boots
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Mules & Clogs
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Children's
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Girls
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Boys
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="catalog-list.html">
+                                    <a href="/catalog-list">
                                         Baby Shoe
                                     </a>
                                     <i class="fa fa-angle-right"></i>
                                     <ul>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 First Walkers
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sneakers
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Boots
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="catalog-list.html">
+                                            <a href="/catalog-list">
                                                 Sandals & Clogs
                                             </a>
                                         </li>
@@ -514,12 +514,12 @@
                         </a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="catalog-list.html">
+                        <a href="/catalog-list">
                             Catalog <i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="sub-menu">
                             <li>
-                                <a href="catalog-list.html">
+                                <a href="/catalog-list">
                                     Catalog List - Style 1
                                 </a>
                             </li>
@@ -777,11 +777,11 @@
                     Shop
                 </h3>
                 <ul class="nav nav-pills nav-stacked">
-                    <li><a href="catalog-list.html">Women</a></li>
-                    <li><a href="catalog-list.html">Men</a></li>
-                    <li><a href="catalog-list.html">Kids</a></li>
-                    <li><a href="catalog-list.html">Shoes</a></li>
-                    <li><a href="catalog-list.html">Accessories</a></li>
+                    <li><a href="/catalog-list">Women</a></li>
+                    <li><a href="/catalog-list">Men</a></li>
+                    <li><a href="/catalog-list">Kids</a></li>
+                    <li><a href="/catalog-list">Shoes</a></li>
+                    <li><a href="/catalog-list">Accessories</a></li>
                 </ul>
             </div>
             <div class="f-menu">
