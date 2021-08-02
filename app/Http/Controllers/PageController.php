@@ -15,9 +15,12 @@ class PageController extends Controller
     public function cataloglist() {
         return view('user.catalog-list');
     }
-
     // Halaman catalog-gallery
     public function cataloggallery() {
         return view('user.catalog-gallery');
+    }
+    // Halaman catalog-table
+    public function catalogtable() {
+        return view('user.catalog-table');
     }
 }

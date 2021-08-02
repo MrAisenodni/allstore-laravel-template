@@ -539,19 +539,19 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="catalog-table.html">
+                                <a href="/catalog-table">
                                     Catalog Table
                                 </a>
                             </li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="product.html">
+                        <a href="/product">
                             Product <i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="sub-menu">
                             <li>
-                                <a href="product.html">
+                                <a href="/product">
                                     Product - Style 1 (Slider)
                                 </a>
                             </li>
