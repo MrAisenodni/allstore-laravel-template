@@ -509,7 +509,7 @@
 
                 <ul class="mainmenu">
                     <li>
-                        <a href="index.html" class="active">
+                        <a href="/" class="active">
                             Home
                         </a>
                     </li>
@@ -524,17 +524,17 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="catalog-list-2.html">
+                                <a href="/catalog-list-2">
                                     Catalog List - Style 2
                                 </a>
                             </li>
                             <li>
-                                <a href="catalog-gallery.html">
+                                <a href="/catalog-gallery">
                                     Catalog Gallery - Style 1
                                 </a>
                             </li>
                             <li>
-                                <a href="catalog-gallery-2.html">
+                                <a href="/catalog-gallery-2">
                                     Catalog Gallery - Style 2
                                 </a>
                             </li>
