@@ -71,7 +71,7 @@
     <div class="header-middle">
         <div class="container header-middle-cont">
             <div class="toplogo">
-                <a href="index.html">
+                <a href="/">
                     <img src="user/img/logo.png" alt="AllStore - MultiConcept eCommerce Template">
                 </a>
             </div>
@@ -79,7 +79,7 @@
                 <ul>
 
                     <li>
-                        <a href="wishlist.html">
+                        <a href="/wishlist">
                             <i class="fa fa-heart"></i>
                             <span class="shop-menu-ttl">Wishlist</span>
                             (<span id="topbar-favorites">1</span>)
@@ -87,18 +87,18 @@
                     </li>
 
                     <li>
-                        <a href="compare.html">
+                        <a href="/compare">
                             <i class="fa fa-bar-chart"></i>
                             <span class="shop-menu-ttl">Compare</span> (5)
                         </a>
                     </li>
 
                     <li class="topauth">
-                        <a href="auth.html">
+                        <a href="/registration">
                             <i class="fa fa-lock"></i>
                             <span class="shop-menu-ttl">Registration</span>
                         </a>
-                        <a href="auth.html">
+                        <a href="/login">
                             <span class="shop-menu-ttl">Login</span>
                         </a>
                     </li>
@@ -765,8 +765,8 @@
                     About us
                 </h3>
                 <ul class="nav nav-pills nav-stacked">
-                    <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="catalog-list.html">Catalog</a></li>
+                    <li class="active"><a href="/">Home</a></li>
+                    <li><a href="/catalog">Catalog</a></li>
                     <li><a href="elements.html">Elements</a></li>
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="contacts.html">Contacts</a></li>
