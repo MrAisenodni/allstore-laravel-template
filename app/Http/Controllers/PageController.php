@@ -51,4 +51,9 @@ class PageController extends Controller
     public function post() {
         return view('user.post');
     }
+
+    // Halaman product
+    public function product() {
+        return view('user.product');
+    }
 }
