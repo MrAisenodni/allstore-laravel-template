@@ -563,7 +563,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="elements.html">
+                        <a href="/element">
                             Elements
                         </a>
                     </li>
@@ -767,7 +767,7 @@
                 <ul class="nav nav-pills nav-stacked">
                     <li class="active"><a href="/">Home</a></li>
                     <li><a href="/catalog">Catalog</a></li>
-                    <li><a href="elements.html">Elements</a></li>
+                    <li><a href="/element">Elements</a></li>
                     <li><a href="/blog">Blog</a></li>
                     <li><a href="/contact">Contacts</a></li>
                 </ul>

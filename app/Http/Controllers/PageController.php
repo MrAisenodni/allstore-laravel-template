@@ -41,4 +41,9 @@ class PageController extends Controller
     public function contact() {
         return view('user.contact');
     }
+
+    // Halaman element
+    public function element() {
+        return view('user.element');
+    }
 }
