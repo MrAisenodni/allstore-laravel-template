@@ -556,7 +556,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="product-2.html">
+                                <a href="/product2">
                                     Product - Style 2 (Scroll)
                                 </a>
                             </li>

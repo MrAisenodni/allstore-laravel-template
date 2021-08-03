@@ -22,6 +22,7 @@ Route::get('/contact', [PageController::class, 'contact']);
 Route::get('/element', [PageController::class, 'element']);
 Route::get('/post', [PageController::class, 'post']);
 Route::get('/product', [PageController::class, 'product']);
+Route::get('/product2', [PageController::class, 'product2']);
 Route::get('/wishlist', [PageController::class, 'wishlist']);
 
 Route::get('/catalog-list', [PageController::class, 'cataloglist']);
