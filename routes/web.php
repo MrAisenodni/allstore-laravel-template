@@ -15,6 +15,9 @@ use App\Http\Controllers\PageController;
 */
 
 Route::get('/', [PageController::class, 'index']);
+
 Route::get('/catalog-list', [PageController::class, 'cataloglist']);
 Route::get('/catalog-gallery', [PageController::class, 'cataloggallery']);
 Route::get('/catalog-table', [PageController::class, 'catalogtable']);
+
+Route::get('/compare', [PageController::class, 'compare']);

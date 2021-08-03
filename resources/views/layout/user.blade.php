@@ -610,7 +610,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="compare.html">
+                                <a href="/compare">
                                     Compare
                                 </a>
                             </li>
