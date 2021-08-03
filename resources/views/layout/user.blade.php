@@ -583,7 +583,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="post.html">
+                                <a href="/post">
                                     Single Post
                                 </a>
                             </li>
