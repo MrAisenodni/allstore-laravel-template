@@ -18,6 +18,7 @@ Route::get('/', [PageController::class, 'index']);
 Route::get('/compare', [PageController::class, 'compare']);
 Route::get('/cart', [PageController::class, 'cart']);
 Route::get('/blog', [PageController::class, 'blog']);
+Route::get('/contact', [PageController::class, 'contact']);
 
 Route::get('/catalog-list', [PageController::class, 'cataloglist']);
 Route::get('/catalog-gallery', [PageController::class, 'cataloggallery']);

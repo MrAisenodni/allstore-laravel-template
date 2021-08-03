@@ -595,7 +595,7 @@
                         </a>
                         <ul class="sub-menu">
                             <li>
-                                <a href="contacts.html">
+                                <a href="/contact">
                                     Contacts
                                 </a>
                             </li>
@@ -769,7 +769,7 @@
                     <li><a href="/catalog">Catalog</a></li>
                     <li><a href="elements.html">Elements</a></li>
                     <li><a href="/blog">Blog</a></li>
-                    <li><a href="contacts.html">Contacts</a></li>
+                    <li><a href="/contact">Contacts</a></li>
                 </ul>
             </div>
             <div class="f-menu">
@@ -793,7 +793,7 @@
                     <li><a href="/blog">News</a></li>
                     <li><a href="reviews.html">Reviews</a></li>
                     <li><a href="/blog">Articles</a></li>
-                    <li><a href="contacts.html">Contacts</a></li>
+                    <li><a href="/contact">Contacts</a></li>
                 </ul>
             </div>
             <div class="f-menu">
@@ -801,10 +801,10 @@
                     Pages
                 </h3>
                 <ul class="nav nav-pills nav-stacked">
-                    <li><a href="contacts.html">About us</a></li>
-                    <li><a href="contacts.html">Delivery</a></li>
-                    <li><a href="contacts.html">Guarantees</a></li>
-                    <li><a href="contacts.html">Contacts</a></li>
+                    <li><a href="/contact">About us</a></li>
+                    <li><a href="/contact">Delivery</a></li>
+                    <li><a href="/contact">Guarantees</a></li>
+                    <li><a href="/contact">Contacts</a></li>
                     <li><a href="404.html">Page 404</a></li>
                 </ul>
             </div>
