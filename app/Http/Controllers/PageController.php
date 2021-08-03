@@ -26,4 +26,9 @@ class PageController extends Controller
     public function compare() {
         return view('user.compare');
     }
+
+    // Halaman cart
+    public function cart() {
+        return view('user.cart');
+    }
 }

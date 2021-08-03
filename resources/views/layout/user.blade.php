@@ -600,7 +600,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="cart.html">
+                                <a href="/cart">
                                     Cart
                                 </a>
                             </li>
