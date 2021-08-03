@@ -615,7 +615,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="wishlist.html">
+                                <a href="/wishlist">
                                     Wishlist
                                 </a>
                             </li>

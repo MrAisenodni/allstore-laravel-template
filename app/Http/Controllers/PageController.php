@@ -56,4 +56,9 @@ class PageController extends Controller
     public function product() {
         return view('user.product');
     }
+
+    // Halaman wishlist
+    public function wishlist() {
+        return view('user.wishlist');
+    }
 }
