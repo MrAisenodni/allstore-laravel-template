@@ -578,7 +578,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="blog-2.html">
+                                <a href="/blog2">
                                     Blog - Style 2
                                 </a>
                             </li>

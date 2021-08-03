@@ -22,6 +22,7 @@ Route::get('/contact', [PageController::class, 'contact']);
 Route::get('/element', [PageController::class, 'element']);
 
 Route::get('/blog', [PageController::class, 'blog']);
+Route::get('/blog2', [PageController::class, 'blog2']);
 Route::get('/post', [PageController::class, 'post']);
 
 Route::get('/product', [PageController::class, 'product']);

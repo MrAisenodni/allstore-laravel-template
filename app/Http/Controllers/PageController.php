@@ -36,6 +36,9 @@ class PageController extends Controller
     public function blog() {
         return view('user.blog');
     }
+    public function blog2() {
+        return view('user.blog2');
+    }
 
     // Halaman contact
     public function contact() {
