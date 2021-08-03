@@ -14,15 +14,20 @@ use App\Http\Controllers\PageController;
 |
 */
 
+Route::get('/login', [PageController::class, 'login']);
+
 Route::get('/', [PageController::class, 'index']);
 Route::get('/compare', [PageController::class, 'compare']);
-Route::get('/cart', [PageController::class, 'cart']);
-Route::get('/blog', [PageController::class, 'blog']);
 Route::get('/contact', [PageController::class, 'contact']);
 Route::get('/element', [PageController::class, 'element']);
+
+Route::get('/blog', [PageController::class, 'blog']);
 Route::get('/post', [PageController::class, 'post']);
+
 Route::get('/product', [PageController::class, 'product']);
 Route::get('/product2', [PageController::class, 'product2']);
+
+Route::get('/cart', [PageController::class, 'cart']);
 Route::get('/wishlist', [PageController::class, 'wishlist']);
 
 Route::get('/catalog-list', [PageController::class, 'cataloglist']);

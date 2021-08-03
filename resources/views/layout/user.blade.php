@@ -605,7 +605,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="auth.html">
+                                <a href="/login">
                                     Authorization
                                 </a>
                             </li>

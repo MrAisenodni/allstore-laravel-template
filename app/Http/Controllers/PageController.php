@@ -64,4 +64,9 @@ class PageController extends Controller
     public function wishlist() {
         return view('user.wishlist');
     }
+
+    // Halaman login
+    public function login() {
+        return view('user.login');
+    }
 }
