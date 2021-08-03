@@ -568,12 +568,12 @@
                         </a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="blog.html">
+                        <a href="/blog">
                             Blog <i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="sub-menu">
                             <li>
-                                <a href="blog.html">
+                                <a href="/blog">
                                     Blog - Style 1
                                 </a>
                             </li>
@@ -768,7 +768,7 @@
                     <li class="active"><a href="/">Home</a></li>
                     <li><a href="/catalog">Catalog</a></li>
                     <li><a href="elements.html">Elements</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="/blog">Blog</a></li>
                     <li><a href="contacts.html">Contacts</a></li>
                 </ul>
             </div>
@@ -789,10 +789,10 @@
                     Information
                 </h3>
                 <ul class="nav nav-pills nav-stacked">
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="blog.html">News</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/blog">News</a></li>
                     <li><a href="reviews.html">Reviews</a></li>
-                    <li><a href="blog.html">Articles</a></li>
+                    <li><a href="/blog">Articles</a></li>
                     <li><a href="contacts.html">Contacts</a></li>
                 </ul>
             </div>

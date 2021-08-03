@@ -31,4 +31,9 @@ class PageController extends Controller
     public function cart() {
         return view('user.cart');
     }
+
+    // Halaman blog
+    public function blog() {
+        return view('user.blog');
+    }
 }
