@@ -8,18 +8,34 @@ class PageController extends Controller
 {
     // Halaman index
     public function index() {
-        return view('user.index');
+        $data = [
+            'active'        => 'home',
+        ];
+
+        return view('user.index', $data);
     }
 
     // Halaman catalog
     public function cataloglist() {
-        return view('user.catalog-list');
+        $data = [
+            'active'        => 'catalog-list',
+        ];
+
+        return view('user.catalog-list', $data);
     }
     public function cataloggallery() {
-        return view('user.catalog-gallery');
+        $data = [
+            'active'        => 'catalog-gallery',
+        ];
+
+        return view('user.catalog-gallery', $data);
     }
     public function catalogtable() {
-        return view('user.catalog-table');
+        $data = [
+            'active'        => 'catalog-table',
+        ];
+
+        return view('user.catalog-table', $table);
     }
 
     // Halaman compare

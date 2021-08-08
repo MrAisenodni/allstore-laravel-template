@@ -1,5 +1,9 @@
 @extends('layout.user')
 
+@php
+    $active = 'Error 404 | Page Not Found'
+@endphp
+
 @section('content')
 
 <!-- Main Content - start -->

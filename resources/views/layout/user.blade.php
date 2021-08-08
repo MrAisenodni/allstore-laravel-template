@@ -509,37 +509,37 @@
 
                 <ul class="mainmenu">
                     <li>
-                        <a href="/" class="active">
+                        <a href="/" class="@if ($active == 'home') active @endif">
                             Home
                         </a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="/catalog-list">
+                        <a href="/catalog-list" class="@if (substr($active, 0, 7) == 'catalog') active @endif">
                             Catalog <i class="fa fa-angle-down"></i>
                         </a>
                         <ul class="sub-menu">
                             <li>
-                                <a href="/catalog-list">
+                                <a href="/catalog-list" class="@if ($active == 'catalog-list') active @endif">
                                     Catalog List - Style 1
                                 </a>
                             </li>
                             <li>
-                                <a href="/catalog-list-2">
+                                <a href="/catalog-list-2" class="@if ($active == 'catalog-list-2') active @endif">
                                     Catalog List - Style 2
                                 </a>
                             </li>
                             <li>
-                                <a href="/catalog-gallery">
+                                <a href="/catalog-gallery" class="@if ($active == 'catalog-gallery') active @endif">
                                     Catalog Gallery - Style 1
                                 </a>
                             </li>
                             <li>
-                                <a href="/catalog-gallery-2">
+                                <a href="/catalog-gallery-2" class="@if ($active == 'catalog-gallery-2') active @endif">
                                     Catalog Gallery - Style 2
                                 </a>
                             </li>
                             <li>
-                                <a href="/catalog-table">
+                                <a href="/catalog-table" class="@if ($active == 'catalog-table') active @endif">
                                     Catalog Table
                                 </a>
                             </li>
